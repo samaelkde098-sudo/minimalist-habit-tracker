@@ -27,12 +27,6 @@ Track your daily habits, maintain streaks, and stay consistent — all with a di
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](screenshot.png)
-
----
-
 ## 🌐 Live Demo
 
 👉 https://samaelkde098-sudo.github.io/minimalist-habit-tracker/
