@@ -27,17 +27,6 @@ Track your daily habits, maintain streaks, and stay consistent — all with a di
 
 ---
 
-## 🌐 Live Demo
-
-👉 https://samaelkde098-sudo.github.io/minimalist-habit-tracker/
-
----
-
-## 📂 Project Structure
-
-
----
-
 ## 🧩 How It Works
 
 - Habits are stored in the browser using LocalStorage.
